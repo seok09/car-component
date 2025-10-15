@@ -1,33 +1,32 @@
-# car-compose
-# Car Components
+# 자동차 구성 (Car Components)
 
-This repository contains information, resources, and code related to various car components. It aims to provide detailed descriptions, diagrams, and implementation examples for different parts of a car.
+이 리포지터리는 자동차의 다양한 구성 요소에 관한 정보와 자료를 제공합니다. 각 부품에 대한 설명, 구조, 그리고 예제를 통해 자동차를 구성하는 요소들을 쉽게 이해할 수 있도록 돕는 것을 목표로 합니다.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Components Covered](#components-covered)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## 목차
+- [소개](#소개)
+- [다루는 구성 요소](#다루는-구성-요소)
+- [사용 방법](#사용-방법)
+- [기여 방법](#기여-방법)
+- [라이선스](#라이선스)
 
-## Introduction
-Cars are made up of many different components that work together to ensure safe and efficient operation. This repository breaks down these components into manageable sections, making it easier to understand how each part functions and interacts with others.
+## 소개
+자동차는 여러 구성 요소가 모여 작동하는 복잡한 기계입니다. 이 리포지터리는 자동차의 주요 부품들을 분류하고 각 부품의 역할과 기능을 상세히 설명합니다.
 
-## Components Covered
-- Engine
-- Transmission
-- Braking System
-- Suspension
-- Electrical System
-- Fuel System
-- Exhaust System
-- Steering System
+## 다루는 구성 요소
+- 엔진 (Engine)
+- 변속기 (Transmission)
+- 제동 시스템 (Braking System)
+- 서스펜션 (Suspension)
+- 전기 시스템 (Electrical System)
+- 연료 시스템 (Fuel System)
+- 배기 시스템 (Exhaust System)
+- 조향 시스템 (Steering System)
 
-## Usage
-You can use this repository as a learning resource or as a base for projects related to automotive systems. Feel free to explore the code samples, diagrams, and documentation for each component.
+## 사용 방법
+이 리포지터리는 자동차 부품을 공부하거나 관련 프로젝트를 진행할 때 참고 자료로 활용할 수 있습니다. 각 구성 요소별 문서와 예제를 살펴보세요.
 
-## Contributing
-Contributions are welcome! If you want to add new components, improve documentation, or fix issues, please submit a pull request.
+## 기여 방법
+새로운 구성 요소 추가, 문서 개선, 버그 수정 등 기여를 환영합니다. 변경사항은 Pull Request를 통해 제출해 주세요.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 라이선스
+본 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참고하세요.
